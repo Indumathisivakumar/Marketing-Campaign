@@ -1,14 +1,14 @@
 # Marketing-Campaign
 SQL script for analyzing marketing campaign performance using customer demographics, clicks, conversions, and ROI.
-# 📊 Marketing Campaign Data Analysis (SQL Project)
+#  Marketing Campaign Data Analysis (SQL Project)
 
 This repository contains a comprehensive SQL script for analyzing the performance of marketing campaigns based on user demographics and campaign metrics. It provides a great starting point for data analysis, reporting, and SQL practice.
 
-## 📁 File Included
+##  File Included
 
 - `Marketing campaign.sql`: Contains all SQL commands to create the schema, populate the data, and run various analytical queries.
 
-## 🧩 Project Structure
+##  Project Structure
 
 ### 1. Schema and Table Creation
 - Creates a `marketing` schema
@@ -37,7 +37,7 @@ The script contains SQL queries to:
 - Identify the top 5 oldest users
 - Analyze demographics and regional performance
 
-## 📈 Insights Derived
+##  Insights Derived
 
 - **Top-performing campaign platforms**
 - **Gender-based engagement**
@@ -45,14 +45,14 @@ The script contains SQL queries to:
 - **Conversion efficiency (ROI)**
 - **Cost-effectiveness across platforms**
 
-## 💡 Use Cases
+##  Use Cases
 
 - Portfolio project for data analysts
 - Classroom/lab assignment for learning SQL
 - Backend data layer for marketing dashboards
 - Baseline for advanced marketing analytics projects
 
-## ⚙️ Technologies
+##  Technologies
 
 - SQL (compatible with MySQL and PostgreSQL with minor adjustments)
 
